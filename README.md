@@ -1,1 +1,1 @@
-Project preview [HERE] (https://hungdzai.github.io/todo-app)
+Project preview [HERE](https://hungdzai.github.io/todo-app)
